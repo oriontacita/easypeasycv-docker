@@ -22,6 +22,6 @@ version: '3.8'
 services:
   web:
     container_name: easy-peasy-cv
-    build: oriontacita/easypeasycv-web:v1
+    image: oriontacita/easypeasycv-web:v1
     ports:
-      - "3000:3000"
+      - "3000:3000"https://hub.docker.com
