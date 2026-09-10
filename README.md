@@ -1,4 +1,4 @@
-# [Project Name] - Community Docker Setup
+# [EasyPeasyCV Docker] - Community Docker Setup
 
 [![Docker Image](https://img.shields.io/badge/docker-ready-blue?logo=docker)](https://hub.docker.com/r/oriontacita/easypeasycv-web)
 [![Upstream Version](https://img.shields.io/badge/upstream-v1.0.0-brightgreen)](https://github.com/goncalojbsousa/EasyPeasyCV)
