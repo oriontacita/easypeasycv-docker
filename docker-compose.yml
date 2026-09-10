@@ -1,0 +1,6 @@
+services:
+  web:
+    container_name: easy-peasy-cv
+    build: oriontacita/easypeasycv-web:v1
+    ports:
+      - "3000:3000"
