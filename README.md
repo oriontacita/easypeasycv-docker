@@ -6,7 +6,7 @@
 
 > **Disclaimer:** This is an unofficial, community-maintained repository and is not affiliated with or endorsed by the original authors. The source code for the original project is developed by [@original-author](https://github.com/goncalojbsousa/EasyPeasyCV).
 
-This repository provides `Dockerfile` and `docker-compose.yml` configurations to simplify running, containerizing, and deploying **[Project Name]**.
+This repository provide `docker-compose.yml` configurations to simplify running, containerizing, and deploying **[EasyPeasyCV Docker]**.
 
 ---
 
